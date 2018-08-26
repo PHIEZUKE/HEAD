@@ -1,5 +1,7 @@
-LINE TMELINE HARUS: ⚫1341209850⚫
-                           BUKAN ⚫1341209950⚫
+# SEMUA AKAN MATI PADA WAKTUNYA
+
+LINE TMELINE HARUS: 🖥1341209850🖥
+                           BUKAN 🖥1341209950🖥
 CONTOH:
 
     CHANNEL_ID = {
@@ -109,5 +111,5 @@ CONTOH:
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
     
-######===========😂DAN MASIH BANYAK LAGI😂=============###########
-######==============😂YG SAYA NGGAK TAU😂=============#####
+######===========🙉DAN MASIH BANYAK LAGI🙉=============###########
+######==============🙊YG SAYA NGGAK TAU🙊=============#####
