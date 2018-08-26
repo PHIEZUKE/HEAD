@@ -18,6 +18,8 @@ class Config(object):
     LINE_CHAN_QUERY_PATH        = '/CH4'
     LINE_SQUARE_QUERY_PATH      = '/SQS1'
 
+    LINE_JUNGEL_PANG            = 'https://game.linefriends.com/jbp-lcs-ranking/lcs/sendMessage'
+    
     CHANNEL_ID = {
         'LINE_TIMELINE': '1341209850',
         'LINE_WEBTOON': '1401600689',
@@ -25,12 +27,13 @@ class Config(object):
         'LINE_STORE': '1376922440',
         'LINE_MUSIC': '1381425814',
         'LINE_BUSINESS': '1459630796'
+        'JUNGEL_PANG':  '1526709289'
     }
 
     APP_TYPE    = 'CHROMEOS\t2.1.5\tChrome_OS\t1'
     APP_VER     = '8.9.1'
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'ARIFISTIFIK'
+    SYSTEM_NAME = 'PH-13'
     SYSTEM_VER  = '12.1.1'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
