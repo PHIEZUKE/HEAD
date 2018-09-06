@@ -30,7 +30,7 @@ class Config(object):
         'JUNGEL_PANG':  '1526709289'
     }
 
-    APP_TYPE    = 'CHROMEOS\t2.1.5\tChrome_OS\t1'
+    APP_TYPE    = 'CHROMEOS\t2.1.5\tPH-13\t1'
     APP_VER     = '8.9.1'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'PH-13'
